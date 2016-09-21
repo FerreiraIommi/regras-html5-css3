@@ -42,6 +42,7 @@ Toda a colaboração será bem-vinda, basta fazer um pull-request neste reposit�
 	Conte com detalhes como o seu problema está acontecendo e como fazer para reproduzí-lo;
 12. Ajude para ser ajudado;
 	Se você tem alguma ideia de como resolver o problema de alguém, colabore ;)
+13. Se o seu problema já foi corrigido, marque o mesmo como [RESOLVIDO]
 
 # BANIMENTO
 
