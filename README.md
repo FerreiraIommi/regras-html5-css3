@@ -25,7 +25,7 @@ Toda a colaboração será bem-vinda, basta fazer um pull-request neste reposit�
 5. Pesquise antes!
 	Por favor, antes de postar qualquer dúvida no grupo, faça uma pesquisa no Google com os principais termos de sua questão. É bem provável que você ache a solução por lá.
 	A idéia do grupo é compartilhar o conhecimento, entretanto, dúvidas básicas e que não contribuem com a maioria dos usuário só poluem a timeline.
-	Você também pode ainda, pesquisar no próprio grupo se essa mesma dúvida já não foi respondida.
+	Você também pode pesquisar no próprio grupo.
 6. Poste apenas se for contribuir;
 	Se você não concorda com alguma coisa, ou não sabe exatamente como ajudar, não atrapalhe quem está querendo aprender.
 7. Indexe o seu POST;
