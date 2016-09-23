@@ -47,3 +47,18 @@ Toda a colaboração será bem-vinda, basta fazer um pull-request neste reposit�
 # BANIMENTO
 
 Ao desrespeitar qualquer uma das regras listadas acima, você será avisado que quebrou a regra, e será orientado a ler este documento. Caso volte a desrespeitar qualquer outra regra será banido e bloqueado do grupo.
+
+
+# LINKS PARA ESTUDO.
+
+codecademy.com
+w3schools.com/
+
+# CANAIS YOUTUBE
+
+Node Studio - https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw
+Curso em Vídeo - https://www.youtube.com/user/cursosemvideo
+MRM DESIGN - https://www.youtube.com/user/mrmdesign1/featured
+
+
+
